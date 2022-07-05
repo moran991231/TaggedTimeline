@@ -18,8 +18,10 @@ step3: (the time interval between step2 and step3)
 step4: (the time interval between step3 and step4)
 ```
 
-## Function
+## Function & Usage
 * linear analysis (no loop) => see the `ex_noloop()` in the `/example.py`
+https://github.com/moran991231/TaggedTimeline/blob/c37352e9771b1ce1fc294193bef24f416619220a/example.py#L8-L17   
+output:  
 ```
 :::: Example Without Loop ::::
  My Daily Routine
@@ -41,7 +43,8 @@ having a dinner...
   
 
 * Iteration analysis (loop) => see the `ex_loop()` in the `/example.py`
-
+https://github.com/moran991231/TaggedTimeline/blob/c37352e9771b1ce1fc294193bef24f416619220a/example.py#L34-L59
+output:  
 ```
 :::: Example With Loop ::::
  My Daily Routine
@@ -81,6 +84,4 @@ The average of accumulated latency per loop:
  (5. have dinner 1.0038 s)
  (total 6.3405 s)
 ```
-
-
-## Usage
+ 
