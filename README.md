@@ -1,5 +1,7 @@
 # TaggedTimeLine
 
+Author: Jaesun Park (GitHub: [@moran991231](https://github.com/moran991231))  
+You can use and modify this for free.
 ## Intro
 This is a kind of a stopwatch which has string tags.  
 I made this for analyse the latencies step by step.  
